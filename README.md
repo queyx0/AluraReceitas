@@ -9,5 +9,4 @@
 <li> Entendi a arquitetura de uma aplicação feita com Django </li>
 <li> Como trabalhar com formulários no Django </li>
 <li> Desenvolver uma aplicação com requisições protegidas, evitando falsificação de requisições </li>
-<li>Manipulação dos dados retornados do backend com o operador map
 </ul>
